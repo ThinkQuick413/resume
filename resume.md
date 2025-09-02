@@ -8,7 +8,7 @@
 
  + ##### Overall goal to help bridge the gap between geography, huuman geogrpahy and science.  :smile:
 
-  <img src="/Img/Lenox.png" width="400"> 
+  <img src="Img/Lenox.png" width="400"> 
 
 
 ### Projects 
@@ -21,6 +21,7 @@
 + Work with for google for data management and risks. 
 + Worked remote job for Appen.
 
-<img src="/Img/Dude.png" width="100"> 
+<img src="Img/Dude.png" width="100"> 
 
 <a href="https://www.appstate.edu/">My School</a>
+
