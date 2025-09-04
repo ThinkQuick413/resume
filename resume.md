@@ -6,14 +6,14 @@
   + Data gathering
   +  analizing climate with topography*
 
- + ##### Overall goal to help bridge the gap between geography, huuman geogrpahy and science.  :smile:
+ + ##### Overall goal to help bridge the gap between physical geography, human geography, and GIS science!  :smile:
 
   <img src="Img/Lenox.png" width="400"> 
 
 
 ### Projects 
 + Fire risk for westeren NC realated to hurricane Helene.
-+ Watershed maps with hydo focuse.
++ Watershed maps with hydo focus.
 + Live data maps abouy vegatation damage due to recent storms.  
 
 
@@ -24,4 +24,5 @@
 <img src="Img/Dude.png" width="100"> 
 
 <a href="https://www.appstate.edu/">My School</a>
+
 
